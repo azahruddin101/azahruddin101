@@ -272,7 +272,7 @@ I am **Azharuddin Mohammad Hassan**, a **Full Stack MERN Developer** with **1 ye
 </div>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/azahruddin101/azahruddin101/output/snake.svg" alt="Snake Contribution Animation" width="100%" />
+<img src="https://raw.githubusercontent.com/azahruddin101/azahruddin101/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%" />
 
 </div>
 

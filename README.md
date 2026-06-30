@@ -257,11 +257,7 @@ I am **Azharuddin Mohammad Hassan**, a **Full Stack MERN Developer** with **1 ye
 
 </div>
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=azahruddin101&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" width="100%" />
-
-</div>
 
 ---
 
